@@ -124,4 +124,4 @@
 <br/>
 <br/>
 
-[![Mohamed ELYOUSFI's github activity graph](https://activity-graph.herokuapp.com/graph?username=ElyousfiMohamed&theme=react-dark)](https://github.com/ElyousfiMohamed)
+<!-- [![Mohamed ELYOUSFI's github activity graph](https://activity-graph.herokuapp.com/graph?username=ElyousfiMohamed&theme=react-dark)](https://github.com/ElyousfiMohamed) -->
