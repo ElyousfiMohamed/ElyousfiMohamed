@@ -23,7 +23,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#elyousfi">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
       </a>
       <br>C
     </td>
