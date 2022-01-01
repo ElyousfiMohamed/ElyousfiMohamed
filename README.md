@@ -107,6 +107,27 @@
       <br>Git
     </td>
   </tr>
+  
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="48" height="48" alt="Svelte"/>
+      </a>
+      <br>Svelte
+    </td>
+    <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="48" height="48" alt="Symfony" />
+      </a>
+      <br>Symfony
+    </td>
+    <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
 </table>
 
 <br/>
