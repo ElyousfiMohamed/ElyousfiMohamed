@@ -21,19 +21,19 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96" height="96">
       <a href="#elyousfi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
       </a>
       <br>C
     </td>
-        <td align="center" width="96">
+        <td align="center" width="96" height="96">
       <a href="#elyousfi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
       </a>
       <br>C++
     </td>
-        <td align="center" width="96">
+        <td align="center" width="96" height="96">
       <a href="#elyousfi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
