@@ -108,6 +108,50 @@
       <br>Git
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#elyousfi" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>BOOTSTRAP
+    </td>
+    <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+      </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+  </tr>
 </table>
 
 <br/>
