@@ -133,10 +133,10 @@
 <br/>
 <div align="center">
 <a href="#elyousfi">
-<img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyousfiMohamed&show_icons=true&hide_border=false&theme=apprentice" align="center" />
+<img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyousfiMohamed&show_icons=true&hide_border=false&theme=graywhite" align="center" />
   
 <a href="#elyousfi">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElyousfiMohamed&show_icons=true&theme=apprentice &count_private=true&include_all_commits=true" alt="Suhail Kakar" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ElyousfiMohamed&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="center"/>
 </a>
 </a></div>
 
