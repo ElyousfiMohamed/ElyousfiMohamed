@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything i can 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn more technologies
-- ⚡ Fun fact: I love trolling and memes
+- ⚡ Fun fact: I like trolling and memes
 
 ### Connect with me:
 
