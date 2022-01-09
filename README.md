@@ -1,5 +1,4 @@
-<container style="background-color:#fdedf;">
-## Hi there, I'm Mohamed ELYOUSFI 👋
+## Hello there, I'm Mohamed ELYOUSFI 👋
 
 ### Student Engineer 🎓 <💻 Big Data & Cloud Computing at ENSET-M 💻/>
 
@@ -146,4 +145,3 @@
 <br/>
 
 <!-- [![Mohamed ELYOUSFI's github activity graph](https://activity-graph.herokuapp.com/graph?username=ElyousfiMohamed&theme=react-dark)](https://github.com/ElyousfiMohamed) -->
-</container>
