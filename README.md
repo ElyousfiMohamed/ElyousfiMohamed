@@ -130,26 +130,6 @@
   </tr>
 </table>
 
----
-
-<a href="https://sourcerer.io/elyousfimohamed"><img src="https://img.shields.io/badge/Python-18%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/elyousfimohamed"><img src="https://img.shields.io/badge/CSS-16%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/elyousfimohamed"><img src="https://img.shields.io/badge/JavaScript-13%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/elyousfimohamed"><img src="https://img.shields.io/badge/SQL-12%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/elyousfimohamed"><img src="https://img.shields.io/badge/TypeScript-12%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/elyousfimohamed"><img src="https://img.shields.io/badge/Java-11%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/elyousfimohamed"><img src="https://img.shields.io/badge/HTML-9%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/elyousfimohamed"><img src="https://img.shields.io/badge/DOS Batch-7%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/elyousfimohamed"><img src="https://img.shields.io/badge/Dart-5%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/elyousfimohamed"><img src="https://img.shields.io/badge/R-3%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/elyousfimohamed"><img src="https://img.shields.io/badge/Gradle-2%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/elyousfimohamed"><img src="https://img.shields.io/badge/Kotlin-1%20commits-orange.svg" alt=""></a>
-
-
-
---- 
-
-
 <div align="center">
 <a href="#elyousfi">
 <img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyousfiMohamed&show_icons=true&hide_border=false&theme=graywhite" align="center" />
