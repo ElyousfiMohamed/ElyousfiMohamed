@@ -130,6 +130,7 @@
   </tr>
 </table>
 
+---
 
 <a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Python-18%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/CSS-16%20commits-orange.svg" alt=""></a>
@@ -168,6 +169,10 @@
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 
 <br/>
+
+--- 
+
+
 <div align="center">
 <a href="#elyousfi">
 <img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyousfiMohamed&show_icons=true&hide_border=false&theme=graywhite" align="center" />
