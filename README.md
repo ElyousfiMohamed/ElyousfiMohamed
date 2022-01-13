@@ -6,6 +6,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn more technologies
 - ⚡ Fun fact: I like trolling and memes
 
+---
+
 ### Connect with me:
 
 <a href = "https://web.facebook.com/Utaku77"><img align="left" alt="ELYOUSFI | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
@@ -14,6 +16,9 @@
 <a href = "https://www.instagram.com/elyousfi.5"><img align="left" alt="ELYOUSFI | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br />
+
+---
+
 
 ### Languages and Tools:
 
@@ -129,6 +134,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 <div align="center">
 <a href="#elyousfi">
