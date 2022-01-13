@@ -129,8 +129,7 @@
     </td>
   </tr>
 </table>
----
-### Tech & Tools Preference
+
 
 <a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/Python-18%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/dadianas"><img src="https://img.shields.io/badge/CSS-16%20commits-orange.svg" alt=""></a>
@@ -168,7 +167,6 @@
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 
----
 <br/>
 <div align="center">
 <a href="#elyousfi">
