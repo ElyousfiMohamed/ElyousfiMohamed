@@ -9,11 +9,24 @@
 ---
 
 ### Connect with me:
-
-<a href = "https://web.facebook.com/Utaku77"><img align="left" alt="ELYOUSFI | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href = "https://twitter.com/ELYOUSFI5Med"><img align="left" alt="ELYOUSFI | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href = "https://www.linkedin.com/in/mohamed-elyousfi"><img align="left" alt="ELYOUSFI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href = "https://www.instagram.com/elyousfi.5"><img align="left" alt="ELYOUSFI | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+### You can find me online:
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/mohamed-elyousfi/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="mailto:mohamed5elyousfi@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="https://web.facebook.com/Utaku77">
+    <img src="https://img.shields.io/badge/facebook-0f1fff.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="https://twitter.com/ELYOUSFI5Med">
+    <img src="https://img.shields.io/badge/Twitter-0f8ff2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+  </a>
+  <a target="_blank" href="https://www.instagram.com/elyousfi.5">
+    <img src="https://img.shields.io/badge/INSTAGRAM-EF5350.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+  </a>
+</p>
 
 <br />
 
