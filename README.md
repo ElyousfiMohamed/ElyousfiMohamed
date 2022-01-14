@@ -3,7 +3,7 @@
 ### Student Engineer 🎓 <💻 Big Data & Cloud Computing at ENSET-M 💻/>
 
 - 🌱 I’m currently learning everything i can 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn more technologies
+- 🥅 2022 Goals: Contribute more to Open Source projects and learn more technologies
 - ⚡ Fun fact: I like trolling and memes
 
 ---
