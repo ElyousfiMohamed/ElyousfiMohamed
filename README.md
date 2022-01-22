@@ -1,17 +1,17 @@
 <img src="./github/assets/images/topo_readme.jpg"/>
 
-## Hello there, I'm Mohamed ELYOUSFI 👋
+<h1 align="center">Hello there, I'm Mohamed ELYOUSFI 👋</h1>
 
-### Student Engineer 🎓 <💻 Big Data & Cloud Computing at ENSET-M 💻/>
+<h2 align="center">Student Engineer 🎓 <💻 Big Data & Cloud Computing at ENSET-M 💻/></h2>
 
-- 🌱 I’m currently learning everything i can 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects and learn more technologies
-- ⚡ Fun fact: I like trolling and memes
+ <h4 align="center">🌱 I’m currently learning everything i can 🤣<br>
+🥅 2022 Goals: Contribute more to Open Source projects and learn more technologies<br>
+⚡ Fun fact: I like trolling and memes</h4>
 
 ---
 
-### Connect with me:
-<p>
+<h2 align="center">Connect with me:</h2>
+<p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/mohamed-elyousfi/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
@@ -31,9 +31,9 @@
 
 ---
 
-### Languages and Tools:
+<h2 align="center">Languages and Tools: </h2>
 
-> Tools, languages, and other things that I like to work with.
+<h5 align="center>"> Tools, languages, and other things that I like to work with.</h5>
 <table align="center">
   <tr>
     <td align="center" width="96">
