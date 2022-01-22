@@ -146,15 +146,6 @@
 
 ---
 
-<div align="center">
-<a href="#elyousfi">
-<img align="center" alt="TOP" src="https://github-readme-stats.vercel.app/api?username=ElyousfiMohamed" align="center" />
-  
-<a href="#elyousfi">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElyousfiMohamed&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" align="center"/>
-</a>
-</a></div>
-
   
 <br/>
 <br/>
