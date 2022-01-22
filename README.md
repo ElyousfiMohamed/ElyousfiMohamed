@@ -13,19 +13,19 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/mohamed-elyousfi/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/linkedin-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
   <a target="_blank" href="mailto:mohamed5elyousfi@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/gmail-000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a>
   <a target="_blank" href="https://web.facebook.com/Utaku77">
-    <img src="https://img.shields.io/badge/facebook-0f1fff.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/facebook-000000.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
   </a>
   <a target="_blank" href="https://twitter.com/ELYOUSFI5Med">
-    <img src="https://img.shields.io/badge/Twitter-0f8ff2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/Twitter-000000.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a>
   <a target="_blank" href="https://www.instagram.com/elyousfi.5">
-    <img src="https://img.shields.io/badge/INSTAGRAM-EF5350.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
 </p>
 
