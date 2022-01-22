@@ -146,8 +146,25 @@
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ElyousfiMohamed&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElyousfiMohamed&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<details>
+    <summary>My GitHub stats</summary>
+    <br />
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=ElyousfiMohamed&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
+    </p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ElyousfiMohamed&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
+    </p>
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElyousfiMohamed&theme=dark" alt="Streak Stats" />
+    </p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElyousfiMohamed&layout=compact&theme=dark&locale=en" alt="Techs used in projects" width="495px" />
+    </p>
+    <p align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=ElyousfiMohamed&theme=xcode&bg_color=151515" alt="Activity Graph" />
+    </p>
+</details>
   
 <br/>
 <br/>
