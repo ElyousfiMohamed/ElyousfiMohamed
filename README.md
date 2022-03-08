@@ -4,7 +4,7 @@
 
 <h2 align="center">Student Engineer 🎓 <💻 Big Data & Cloud Computing at ENSET-M 💻/></h2>
 
- <h4 align="center">🌱 I’m currently learning everything i can 🤣<br>
+ <h4 align="center">🌱 I’m currently learning => ML | AI | Hadoop(BigData) | Android | Spring <br>
 🥅 2022 Goals: Contribute more to Open Source projects and learn more technologies<br>
 ⚡ Fun fact: I like trolling and memes</h4>
 
