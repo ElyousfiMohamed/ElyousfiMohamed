@@ -6,7 +6,7 @@
 
  <h4 align="center">🌱 I’m currently learning => ML | AI | Hadoop(BigData) | Android | Spring <br>
 🥅 2022 Goals: Contribute more to Open Source projects and learn more technologies<br>
-⚡ Fun fact: I like trolling and memes</h4>
+⚡ Fun facts: I like trolling and memes, also I LOOVE JAVA ☕ </h4>
 
 ---
 
