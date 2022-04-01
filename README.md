@@ -1,8 +1,4 @@
 <img src="./github/assets/images/topo_readme.jpg"/>
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ElyousfiMohamed&left_color=grey&right_color=red"/>
-  <img src="https://img.shields.io/github/followers/ElyousfiMohamed?style=social" />
-</p>
 <h1 align="center">Hello there, I'm Mohamed ELYOUSFI (ME)👋</h1>
 
 <h2 align="center">Student Engineer 🎓 <💻 Big Data & Cloud Computing at ENSET-M 💻/></h2>
