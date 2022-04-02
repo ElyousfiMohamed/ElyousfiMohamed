@@ -71,11 +71,11 @@
       </a>
       <br>MySql
     </td>
-    <td align="center" width="96">
-      <a href="#elyousfi">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node JS" />
+   <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
       </a>
-      <br>Node JS
+      <br>MongoDB
     </td>
   </tr>
   <tr>
@@ -85,11 +85,11 @@
       </a>
       <br>Linux
     </td>
-    <td align="center" width="96">
-      <a href="#elyousfi">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+   <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
       </a>
-      <br>Bash
+      <br>Spring
     </td>
     <td align="center" width="96">
       <a href="#elyousfi" >
@@ -121,22 +121,6 @@
       </a>
       <br>Git
     </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
-      </a>
-      <br>MongoDB
-    </td>
-   <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
-      </a>
-      <br>Spring
-    </td>
-    
   </tr>
 </table>
 
