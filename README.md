@@ -3,7 +3,7 @@
 
 <h2 align="center">Student Engineer 🎓 <💻 Big Data & Cloud Computing at ENSET-M 💻/></h2>
 
- <h4 align="center">🌱 I’m currently learning => ML | AI | Hadoop(BigData) | Flutter | Spring <br>
+ <h4 align="center">🌱 I’m currently learning => ML | Spark | Flutter | Spring <br>
 🥅 2022 Goals: Contribute more to Open Source projects and learn more technologies<br>
 ⚡ Fun facts: I like trolling and memes, also I LOOVE JAVA ☕ </h4>
 
