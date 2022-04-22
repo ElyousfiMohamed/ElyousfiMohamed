@@ -5,7 +5,7 @@
 
  <h4 align="center">🌱 I’m currently learning => ML | Spark | Flutter | Spring <br>
 🥅 2022 Goals: Contribute more to Open Source projects and learn more technologies<br>
-⚡ Fun facts: I like trolling and memes, also I LOOVE JAVA ☕ </h4>
+⚡ Fun facts: I like trolling and memes, and I LOOVE JAVA ☕ </h4>
 
 ---
 
