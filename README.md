@@ -1,7 +1,7 @@
 <img src="./github/assets/images/topo_readme.jpg"/>
 <h1 align="center">Hello there, I'm Mohamed ELYOUSFI 👋</h1>
 
-<h2 align="center">Student Engineer 🎓 <💻 Big Data & Cloud Computing at ENSET-M 💻/></h2>
+<h2 align="center"><💻 Big Data & Cloud Computing Student Engineer 🎓 at ENSET-M 💻/></h2>
 
  <h4 align="center">🌱 I’m currently learning => ML | Spark | Flutter | Spring <br>
 🥅 2022 Goals: Contribute more to Open Source projects and learn more technologies<br>
