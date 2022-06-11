@@ -3,7 +3,7 @@
 
 <h2 align="center"><💻 Big Data & Cloud Computing Student Engineer 🎓 at ENSET-M 💻/></h2>
 
- <h4 align="center">🌱 I’m currently learning => ML | Spark | Flutter | Spring <br>
+ <h4 align="center">🌱 I’m currently learning => ML | Spark | Flutter | Spring | Angular | AI | SMA <br>
 🥅 2022 Goals: Contribute more to Open Source projects and learn more technologies<br>
 ⚡ Fun facts: I like trolling and memes, and I LOOVE JAVA ☕ </h4>
 
@@ -118,9 +118,53 @@
     </td>
     <td align="center" width="96">
       <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Svelte
+    </td>
+  </tr>
+ <tr>
+  <td align="center" width="96">
+      <a href="#elyousfi" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
+   <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastApi" />
+      </a>
+      <br>FastApi
+    </td>
+    <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="PHP" />
+      </a>
+      <br>Kubernetes
     </td>
   </tr>
 </table>
