@@ -3,7 +3,7 @@
 
 <h2 align="center"><💻 Big Data & Cloud Computing Student Engineer 🎓 at ENSET-M 💻/></h2>
 
- <h4 align="center">🌱 I’m currently learning => ML | Spark | Flutter | Spring | Angular | AI | SMA <br>
+ <h4 align="center">🌱 I’m currently learning => ML | DL | Micro-Services | DevOPS <br>
 🥅 2022 Goals: Contribute more to Open Source projects and learn more technologies<br>
 ⚡ Fun facts: I like trolling and memes, and I LOOVE JAVA ☕ </h4>
 
@@ -171,12 +171,17 @@
 
 ---
 
+<h2 align="center">GitHub Trophies : </h2>
+
+ <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=ElyousfiMohamed&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
+  </p>
+
+---
+
 <details>
     <summary>My GitHub stats</summary>
     <br />
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=ElyousfiMohamed&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
-    </p>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=ElyousfiMohamed&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
     </p>
