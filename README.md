@@ -1,6 +1,8 @@
 <h1 align="center">🌛 سبحان الله وبحمده، والحمد لله، ولا إله إلا الله، والله أكبر 🌜</h1>
 <h1 align="center">Hello 👋, I'm Mohamed ELYOUSFI 🥋</h1>
 
+---
+<h3 align="center">🍁 About me 🍁</h3>
 <table border="1" cellspacing="0" cellpadding="1" align="center">
  <tr>
     <td>💻 Engineering Student</td>
@@ -28,6 +30,8 @@
   </tr>
 </table>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ElyousfiMohamed&label=Profile%20views&color=0e75b6&style=flat" alt="ElyousfiMohamed" /> </p>
+
+---
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
