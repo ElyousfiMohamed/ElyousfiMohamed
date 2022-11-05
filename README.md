@@ -1,13 +1,33 @@
-<img src="./github/assets/images/topo_readme.jpg"/>
-<h1 align="center">Hello there, I'm Mohamed ELYOUSFI 👋</h1>
+<h1 align="center">🌛 سبحان الله وبحمده، والحمد لله، ولا إله إلا الله، والله أكبر 🌜</h1>
+<h1 align="center">Hello 👋, I'm Mohamed ELYOUSFI 🥋</h1>
 
-<h2 align="center"><💻 Big Data & Cloud Computing Student Engineer 🎓 at ENSET-M 💻/></h2>
-
- <h4 align="center">🌱 I’m currently learning => ML | DL | Micro-Services | DevOPS <br>
-🥅 2022 Goals: Contribute more to Open Source projects and learn more technologies<br>
-⚡ Fun facts: I like trolling and memes, and I LOOVE JAVA ☕ </h4>
-
----
+<table border="1" cellspacing="0" cellpadding="1" align="center">
+ <tr>
+    <td>💻 Engineering Student</td>
+    <td>Big Data and Cloud Computing at ENSET-M</td>
+  </tr>
+  <tr>
+    <td>🌱 Currently learning</td>
+    <td>ML | DL | Micro-Services | DevOPS</td>
+  </tr>
+  <tr>
+    <td>⚡ Interested in</td>
+    <td>Backend Spring/FastAPI | Artificial Intelligence</td>
+  </tr>
+ <tr>
+    <td>😄 Fun facts</td>
+    <td>I like trolling and memes, check insta : clean.my.meme</td>
+  </tr>
+ <tr>
+    <td>🥅 2022 Goals</td>
+    <td>Dedicate time to my passion and get my dream job</td>
+  </tr>
+ <tr>
+    <td>💥 Interests</td>
+    <td>FootBall ⚽️, Karate 🥋 and Gaming 🎮</td>
+  </tr>
+</table>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ElyousfiMohamed&label=Profile%20views&color=0e75b6&style=flat" alt="ElyousfiMohamed" /> </p>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -27,13 +47,11 @@
     <img src="https://img.shields.io/badge/INSTAGRAM-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ElyousfiMohamed&label=Profile%20views&color=0e75b6&style=flat" alt="ElyousfiMohamed" /> </p>
 
 ---
 
 <h2 align="center">Languages and Tools: </h2>
 
-<h5 align="center>"> Tools, languages, and other things that I like to work with.</h5>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -53,12 +71,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
-    </td>        
-    <td align="center" width="96">
-      <a href="#elyousfi">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+    </td>  
+   <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
       </a>
-      <br>JavaScript
+      <br>Spring
     </td>
     <td align="center" width="96">
       <a href="#elyousfi">
@@ -66,32 +84,20 @@
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-      <a href="#elyousfi">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySql" />
-      </a>
-      <br>MySql
-    </td>
-   <td align="center" width="96">
+<td align="center" width="96">
       <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastApi" />
       </a>
-      <br>MongoDB
+      <br>FastApi
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#elyousfi" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
-   <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
-      </a>
-      <br>Spring
-    </td>
+  </tr>
+      <tr>
     <td align="center" width="96">
       <a href="#elyousfi" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
@@ -104,57 +110,25 @@
       </a>
       <br>CSS3
     </td>
-    <td align="center" width="96">
-      <a href="#elyousfi">
-        <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>BOOTSTRAP
-    </td>
-    <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Svelte
-    </td>
-  </tr>
- <tr>
-  <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96"> 
+        <td align="center" width="96"> 
       <a href="#elyousfi" >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
       </a>
       <br>Angular
     </td>
-   <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastApi" />
-      </a>
-      <br>FastApi
-    </td>
-    <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
+           <td align="center" width="96">
       <a href="#elyousfi">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySql" />
       </a>
-      <br>Dart
+      <br>MySql
+       </td>
+        <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
     </td>
-    <td align="center" width="96">
+           <td align="center" width="96">
       <a href="#elyousfi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="CSS3" />
       </a>
