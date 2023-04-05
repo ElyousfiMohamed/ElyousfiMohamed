@@ -58,19 +58,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <a href="#elyousfi">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      </a>
-      <br>C
-    </td>
-        <td align="center" width="96">
-      <a href="#elyousfi">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-        <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#elyousfi">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       </a>
@@ -94,57 +82,52 @@
       </a>
       <br>FastApi
     </td>
-    <td align="center" width="96"> 
-      <a href="#elyousfi" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-  </tr>
-      <tr>
-    <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#elyousfi">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-        <td align="center" width="96"> 
-      <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-           <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#elyousfi">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySql" />
       </a>
       <br>MySql
-       </td>
-        <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
     </td>
-           <td align="center" width="96">
+   <td align="center" width="96">
       <a href="#elyousfi">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="CSS3" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Tensorflow" />
       </a>
-      <br>Docker
+      <br>Tensorflow
     </td>
-    <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="PHP" />
+   <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
       </a>
-      <br>Kubernetes
+      <br>PyTorch
     </td>
   </tr>
+ <tr>
+  <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="anaconda" />
+      </a>
+      <br>Anaconda
+    </td>
+  <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="opencv" />
+      </a>
+      <br>Opencv
+    </td>
+  <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="numpy" />
+      </a>
+      <br>Numpy
+    </td>
+  <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" />
+      </a>
+      <br>Pandas
+    </td>
+  </tr>
+ </tr>
 </table>
 
 ---
