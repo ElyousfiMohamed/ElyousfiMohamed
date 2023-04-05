@@ -10,18 +10,18 @@
   </tr>
   <tr>
     <td>🌱 Currently learning</td>
-    <td>ML | DL | Micro-Services | DevOPS</td>
+    <td> NLP with transformers </td>
   </tr>
   <tr>
     <td>⚡ Interested in</td>
-    <td>Backend Spring/FastAPI | Artificial Intelligence</td>
+    <td>Artificial Intelligence (Computer Vision)</td>
   </tr>
  <tr>
     <td>😄 Fun facts</td>
-    <td>I like trolling and memes, check insta : clean.my.meme</td>
+    <td>I like memes</td>
   </tr>
  <tr>
-    <td>🥅 2022 Goals</td>
+    <td>🥅 2023 Goals</td>
     <td>Dedicate time to my passion and get my dream job</td>
   </tr>
  <tr>
