@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>🌱 Currently learning</td>
-    <td> NLP with transformers </td>
+     <td> Siamese, BYOL and Transformers </td>
   </tr>
   <tr>
     <td>⚡ Interested in</td>
