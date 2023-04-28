@@ -26,7 +26,7 @@
   </tr>
  <tr>
     <td>💥 Interests</td>
-    <td>FootBall ⚽️, Karate 🥋 and Gaming 🎮</td>
+    <td>Football(s̶o̶c̶c̶e̶r)⚽️, Karate 🥋 and Gaming 🎮</td>
   </tr>
 </table>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ElyousfiMohamed&label=Profile%20views&color=0e75b6&style=flat" alt="ElyousfiMohamed" /> </p>
