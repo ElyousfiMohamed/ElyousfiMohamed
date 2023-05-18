@@ -70,6 +70,12 @@
       </a>
       <br>Spring
     </td>
+   <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
     <td align="center" width="96">
       <a href="#elyousfi">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
@@ -89,6 +95,14 @@
       <br>MySql
     </td>
    <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
+    </td>
+  </tr>
+ <tr>
+     <td align="center" width="96">
       <a href="#elyousfi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Tensorflow" />
       </a>
@@ -96,12 +110,10 @@
     </td>
    <td align="center" width="96">
       <a href="#elyousfi">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
       </a>
       <br>PyTorch
     </td>
-  </tr>
- <tr>
   <td align="center" width="96">
       <a href="#elyousfi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="anaconda" />
@@ -125,6 +137,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" />
       </a>
       <br>Pandas
+    </td>
+   <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
+      </a>
+      <br>Docker
     </td>
   </tr>
  </tr>
