@@ -41,9 +41,6 @@
   <a target="_blank" href="mailto:mohamed5elyousfi@gmail.com">
     <img src="https://img.shields.io/badge/gmail-000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a>
-  <a target="_blank" href="https://web.facebook.com/Utaku77">
-    <img src="https://img.shields.io/badge/facebook-000000.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
-  </a>
   <a target="_blank" href="https://twitter.com/ELYOUSFI5Med">
     <img src="https://img.shields.io/badge/Twitter-000000.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
   </a>
@@ -58,6 +55,7 @@
 
 <table align="center">
   <tr>
+     <p>Web Development : </p>
      <td align="center" width="96">
       <a href="#elyousfi">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
@@ -70,12 +68,6 @@
       </a>
       <br>Spring
     </td>
-   <td align="center" width="96">
-      <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
     <td align="center" width="96">
       <a href="#elyousfi">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
@@ -84,24 +76,36 @@
     </td>
 <td align="center" width="96">
       <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastApi" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastApi"/>
       </a>
       <br>FastApi
     </td>
-     <td align="center" width="96">
-      <a href="#elyousfi">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySql" />
+      <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="Html"/>
       </a>
-      <br>MySql
+      <br>Html
     </td>
    <td align="center" width="96">
       <a href="#elyousfi" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="Css"/>
       </a>
-      <br>Jira
+      <br>Css
+    </td>
+      <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48" height="48" alt="Angular"/>
+      </a>
+      <br>Angular
     </td>
   </tr>
+ </tr>
+</table>
+
+<table align="center">
  <tr>
+ <tr>
+     <p>Data science : </p>
      <td align="center" width="96">
       <a href="#elyousfi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Tensorflow" />
@@ -138,11 +142,37 @@
       </a>
       <br>Pandas
     </td>
+  <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySql" />
+      </a>
+      <br>MySql
+    </td>
+  </tr>
+ </tr>
+</table>
+
+<table align="center">
+ <tr>
+   <p>DevOps : </p>
    <td align="center" width="96">
       <a href="#elyousfi">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
       </a>
       <br>Docker
+    </td>
+  </tr>
+ </tr>
+</table>
+
+<table align="center">
+ <tr>
+   <p>Other tools : </p>
+   <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+      </a>
+      <br>Jira
     </td>
   </tr>
  </tr>
