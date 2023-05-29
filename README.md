@@ -161,6 +161,18 @@
       </a>
       <br>Docker
     </td>
+   <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+   <td align="center" width="96">
+      <a href="#elyousfi">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" width="48" height="48" alt="Jenkins"/>
+      </a>
+      <br>Jenkins
+    </td>
   </tr>
  </tr>
 </table>
@@ -173,6 +185,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
       </a>
       <br>Jira
+    </td>
+  <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
+      </a>
+      <br>Trello
     </td>
   </tr>
  </tr>
