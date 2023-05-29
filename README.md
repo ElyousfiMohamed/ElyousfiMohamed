@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>⚡ Interested in</td>
-    <td>Artificial Intelligence (Computer Vision)</td>
+    <td>Artificial Intelligence | Big Data</td>
   </tr>
  <tr>
     <td>😄 Fun facts</td>
