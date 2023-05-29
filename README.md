@@ -169,7 +169,7 @@
     </td>
    <td align="center" width="96">
       <a href="#elyousfi">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" width="48" height="48" alt="Jenkins"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins"/>
       </a>
       <br>Jenkins
     </td>
