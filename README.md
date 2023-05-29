@@ -192,9 +192,16 @@
       </a>
       <br>Trello
     </td>
+  <td align="center" width="96">
+      <a href="#elyousfi" >
+        <img src="https://github.com/ElyousfiMohamed/ElyousfiMohamed/assets/73071155/4b3446a2-853d-4f6b-8e04-258cdf622a5e" width="48" height="48" alt="Notion" />
+      </a>
+      <br>Notion
+    </td>
   </tr>
  </tr>
 </table>
+
 
 ---
 
