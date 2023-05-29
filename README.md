@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>🌱 Currently learning</td>
-     <td> Siamese, BYOL and Transformers </td>
+     <td> Transformers | LangChain | MLOps </td>
   </tr>
   <tr>
     <td>⚡ Interested in</td>
