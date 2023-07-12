@@ -5,20 +5,16 @@
 <h3 align="center">🍁 About me 🍁</h3>
 <table border="1" cellspacing="0" cellpadding="1" align="center">
  <tr>
-    <td>💻 Engineering Student</td>
+    <td>💻 State Engineer</td>
     <td>Big Data and Cloud Computing at ENSET-M</td>
   </tr>
   <tr>
     <td>🌱 Currently learning</td>
-     <td> Transformers | LangChain | MLOps </td>
+     <td> Transformers | MLOps </td>
   </tr>
   <tr>
     <td>⚡ Interested in</td>
     <td>Artificial Intelligence | Big Data</td>
-  </tr>
- <tr>
-    <td>😄 Fun facts</td>
-    <td>I like memes</td>
   </tr>
  <tr>
     <td>🥅 2023 Goals</td>
@@ -27,6 +23,10 @@
  <tr>
     <td>💥 Interests</td>
     <td>Football(s̵o̵c̵c̵e̵r̵)⚽️, Karate 🥋 and Gaming 🎮</td>
+  </tr>
+  <tr>
+    <td>😄 Fun facts</td>
+    <td>I like memes</td>
   </tr>
 </table>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ElyousfiMohamed&label=Profile%20views&color=0e75b6&style=flat" alt="ElyousfiMohamed" /> </p>
