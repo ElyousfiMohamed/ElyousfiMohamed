@@ -17,10 +17,6 @@
     <td>Artificial Intelligence | Big Data</td>
   </tr>
  <tr>
-    <td>🥅 2023 Goals</td>
-    <td>Dedicate time to my passion and get my dream job</td>
-  </tr>
- <tr>
     <td>💥 Interests</td>
     <td>Football(s̵o̵c̵c̵e̵r̵)⚽️, Karate 🥋 and Gaming 🎮</td>
   </tr>
