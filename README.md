@@ -10,11 +10,11 @@
   </tr>
   <tr>
     <td>🌱 Currently learning</td>
-     <td> Transformers | MLOps </td>
+     <td> Ostorlab | Transformers | MLOps </td>
   </tr>
   <tr>
     <td>⚡ Interested in</td>
-    <td>Artificial Intelligence | Big Data</td>
+    <td>Web development (python, java) | Data science | Big Data</td>
   </tr>
  <tr>
     <td>💥 Interests</td>
