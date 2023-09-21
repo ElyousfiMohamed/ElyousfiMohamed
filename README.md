@@ -207,7 +207,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=ElyousfiMohamed&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
   </p>
 
----
+<!-- ---
 
 <details>
     <summary>My GitHub stats</summary>
@@ -225,7 +225,7 @@
         <img src="https://activity-graph.herokuapp.com/graph?username=ElyousfiMohamed&theme=xcode&bg_color=151515" alt="Activity Graph" />
     </p>
 </details>
-  
+ -->
 <br/>
 <br/>
 <img src="./github/assets/images/rodape_readme.jpg" alt="Art for footer readme.md" />
